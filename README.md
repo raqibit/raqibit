@@ -5,16 +5,16 @@
 [![](https://img.shields.io/github/followers/roqeebismail?label=GitHub%20Followers)](https://github.com/roqeebismail)
 
 ---
-### 👋 Hi, I'm [Roqeeb Ismail](https://linkedln.com/in/roqeebismail).
+### 👋 Hi, I'm [Raqib Ismail](https://linkedln.com/in/roqeebismail).
 
-#### Software Engineer | MERN Specialist | OSS Contributor  
-Building performant, accessible, and scalable web applications for over 3 years.
+#### Software Engineer | Full-Stack TypeScript Developer | AI engineer 
+Showcasing unique Al applications for Science & Engineering.
 
 ---
 
 #### 🧩 About Me
 
-I'm a fullstack engineer focused on crafting intuitive and user-centered interfaces. I enjoy collaborating on open-source projects and continuously learning emerging technologies
+I'm a fullstack engineer focused on crafting intuitive and user-centered interfaces. I enjoy collaborating and continuously learning emerging technologies
 
 ---
 
@@ -80,7 +80,7 @@ I'm a fullstack engineer focused on crafting intuitive and user-centered interfa
 
 ---
 
-![Roqeebismail`s GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Roqeebismail&theme=dark)
+![Raqib ismail`s GitHub Statistics](https://github-readme-stats.vercel.app/api?username=raqibit&theme=dark)
 
 
 #### 🌱 Open Source Contributions
