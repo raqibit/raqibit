@@ -1,8 +1,8 @@
 
 ![Repository Banner](./assets/banner.png)
 
-[![](https://komarev.com/ghpvc/?username=roqeebismail&color=blue&label=Profile%20Views)](https://github.com/roqeebismail/roqeebismail)
-[![](https://img.shields.io/github/followers/roqeebismail?label=GitHub%20Followers)](https://github.com/roqeebismail)
+[![](https://komarev.com/ghpvc/?username=raqibit&color=blue&label=Profile%20Views)](https://github.com/raqibit/raqibit)
+[![](https://img.shields.io/github/followers/raqibit?label=GitHub%20Followers)](https://github.com/raqibit)
 
 ---
 ### 👋 Hi, I'm [Raqib Ismail](https://linkedln.com/in/roqeebismail).
@@ -74,13 +74,15 @@ I'm a fullstack engineer focused on crafting intuitive and user-centered interfa
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-1A1A1A?style=flat&logo=openai)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-121013?style=flat&logo=github)
 ![Cursor](https://img.shields.io/badge/Cursor-161B22?style=flat)
-![GeekSeek](https://img.shields.io/badge/GeekSeek-000000?style=flat)
+![Codex](https://img.shields.io/badge/Codex-161B22?style=flat)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat)
 
 
 
 ---
 
-![Raqib ismail`s GitHub Statistics](https://github-readme-stats.vercel.app/api?username=raqibit&theme=dark)
+![Raqib Ismail`s GitHub Statistics](https://github-stats-extended.vercel.app/api/?username=raqibit&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Raqib+GitHub%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
 
 
 #### 🌱 Open Source Contributions
